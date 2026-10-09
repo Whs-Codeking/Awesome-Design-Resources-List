@@ -238,6 +238,7 @@ Links marked with 🤖 are AI resources.
 
 ## 🛠️ Production Tools (Gradients, Shadows, Converters, GenAI)
 
+- 🤖 [aigeneratornsfw.com](https://aigeneratornsfw.com/nsfw-ai-image-generator) - create and edit non-explicit images for adults18+ with daily registered-account image credits; video requires paid membership.
 - [TinyPNG](https://tinypng.com/) - the online compressor empowers you to optimize your images easily
 - [Tailwind CSS Color Generator | UI Colors](https://uicolors.app/generate) - generate, edit, save, and share Tailwind CSS color shades based on a given hex code or HSL color
 - [Boring Avatars](https://boringavatars.com/) - an open-source React library that generates custom, SVG-based user avatars
