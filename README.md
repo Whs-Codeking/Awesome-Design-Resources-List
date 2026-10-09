@@ -431,6 +431,7 @@ Links marked with 🤖 are AI resources.
 
 ## 🔍 Research & Accessibility (UX, Usability, A11y)
 
+- 🤖 [Describe Image](https://describeimage.io/tools/alt-text-generator) - draft image alt text with page context for accessibility workflows; review generated descriptions before publishing.
 - [How type influences readability](https://fonts.google.com/knowledge/readability_and_accessibility/how_type_influences_readability) - article
 - [Accessibility Weekly](https://a11yweekly.com/) - a weekly dose of web accessibility to help you bring it into your everyday work. Delivered to your inbox each Monday, curated by David A. Kennedy
 - [Best Practices for Cognitive Accessibility in Web Design](https://www.a11y-collective.com/blog/cognitive-accessibility/) - article
