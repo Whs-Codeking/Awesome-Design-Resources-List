@@ -410,6 +410,7 @@ Links marked with 🤖 are AI resources.
 
 ## 🎬 Animations, 3D and Sound
 
+- 🤖 [Fomrix](https://fomrix.com/) - generate GLB models from images or text using account credits, with separate free browser viewers and mesh conversion tools.
 - [Motionimo](https://www.motionimo.xyz/) - a free tool that shares resources, tips, expressions, and inspirations around motion design
 - [Creattie](https://creattie.com/) - a curated library of Lottie animations and animated icons created by award-winning artists
 - [MageCDN](https://magecdn.com/tools/svg-loaders) - free 100+ open source SVG spinners
